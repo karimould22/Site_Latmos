@@ -11,7 +11,7 @@ st.set_page_config(page_title="Dashboard Meteo", layout="wide")
 
 # Noms des fichiers image
 FICHIER_FOND = "fond.jpg"
-FICHIER_LOGO = "logo.png"
+FICHIER_LOGO = "qualair.png"
 FICHIER = "latmos_blanc.png"
 
 # --- FONCTION POUR L'IMAGE DE FOND ET LE STYLE CSS ---
